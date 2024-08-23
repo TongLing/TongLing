@@ -1,7 +1,7 @@
 
 <p><a href="https://tongling.github.io/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> 
 
-I’m Ling Tong (童凌). I’m currently working at University of Texas Health Science Center at Houston. My primary research interests are medical informatics and artificial intelligence. I'm an active medicla informatics scientist, software developer, and technology and education enthusiastics.
+I’m Ling Tong (童凌). I’m currently working at University of Texas Health Science Center at Houston. My primary research interests are medical informatics and artificial intelligence. I'm an active medical informatics scientist, software developer, and technology and education enthusiastics.
 
 For more information, please check my academic page above or [click here](https://tongling.github.io/).
 
